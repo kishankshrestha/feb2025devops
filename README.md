@@ -1,6 +1,7 @@
 # Feb2025devops
-Feb 2025 Devops by Kishan Shrestha
-Made by ChatGpt
+## Feb 2025 Devops by Kishan Shrestha
+### Made by ChatGpt
+
 
 # Project Name
 
